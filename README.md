@@ -1,7 +1,7 @@
 Ex.No: 7 – Development of a Prompt-Based Application Using ChatGPT
 
-NAME : FARHAAN THAYYIB L 
-REGISTER NUMBER: 212225230069
+NAME : HARSATH S
+REGISTER NUMBER: 212225230096
 
 Aim
 
